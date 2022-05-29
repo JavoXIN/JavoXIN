@@ -18,6 +18,7 @@ What is the Ricola?
    
    
 How do I use this?
+
    import telebot #대부분 CIS국가들에서 KAKAOTALK 같은 TELEGRAM app을 쓴다. So 이 python에서 된 code를 telegram app에서 실행하는 것이 많은 사람들에게 도우미 될 수 있다.
    
    import cyrtranslit   #우리에게 필요한 main algorithm을 제공해준다.
@@ -29,10 +30,13 @@ How do I use this?
    
    
  In Progress:
+ 
      1) 러시아어에서 ь,Ь 및 ъ,Ъ 글자가 있는 단어가 나무 많아서 자기 코드에다가 아직 russian_word_date 및 source을 도입하지 않았다. 개발 중...
      
  
  Resources and links:
+ 
+ 
 1) https://github.com/opendatakosovo/cyrillic-transliteration
 2) TELEGRAM: @Javo2Bot
 3) https://desktop.telegram.org/
