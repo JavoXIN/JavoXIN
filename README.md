@@ -10,9 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 소개
 
-- 이름: 자보히르
-- 취미: **자전거**, 사격, 등산, **카페코딩**, 달리기, 여행, 수영, PC 게임, 
 - Email: javohir.toshtemirov123@gmail.com
 - GitHub: [github.com/JavoXIN](https://github.com/JavoXIN)
-- LinkedIn: [linkedin.com/in/JavoXIN](https://linkedin.com/in/JavoXIN)
-
+- LinkedIn: [linkedin.com/in/javokhir-tashtemirov-1a3633258](https://www.linkedin.com/in/javokhir-tashtemirov-1a3633258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHCn9cWemSWyTlprcBPgU%2Bg%3D%3D)
