@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 - Email: javohir.toshtemirov123@gmail.com
 - GitHub: [github.com/JavoXIN](https://github.com/JavoXIN)
-- LinkedIn: [linkedin.com/in/javokhir-tashtemirov-1a3633258](https://www.linkedin.com/in/javokhir-tashtemirov-1a3633258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHCn9cWemSWyTlprcBPgU%2Bg%3D%3D)
+- LinkedIn: [linkedin.com/in/javokhir-tashtemirov/]
